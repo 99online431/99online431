@@ -1,5 +1,5 @@
-# Hi I'm Noppadol, Welcome to my Gihub profile
-## I’m currently working on The Revenue Department
+# Hi I'm Noppadol, Welcome to my Github profile
+## I’m currently working on RD (The Revenue Department)
 <!--
 **99online431/99online431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
