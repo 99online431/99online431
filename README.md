@@ -2,7 +2,7 @@
 # HEADERS
 
 # Hi I'm Noppadol, Welcome to my Gihub profile
-## - 🔭 I’m currently working on The Revenue Department
+## I’m currently working on The Revenue Department
 <!--
 **99online431/99online431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
